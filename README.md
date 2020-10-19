@@ -18,5 +18,7 @@
 ### Check Out My Portflio for a detailed overview about me
 [Portfolio](https://raj5036.github.io/portfolio/dist/)
 
+### GitHub Stats:
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=raj5036&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
  
