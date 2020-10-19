@@ -1,6 +1,6 @@
 # Hi I am [Raj Karmakar](https://github.com/raj5036)
 
-- 🔭 I’m currently working on a Social Media App based on Rreact/GraphQL.
+- 🔭 I’m currently working on a Social Media App based on React/GraphQL.
 - 👯 I’m open to collaborate on Github
 -  My moto: Eat 🍽  Sleep 🛌  Hack⚡  Repeat 🔁
 
