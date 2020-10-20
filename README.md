@@ -17,7 +17,7 @@
     
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-raj.vercel.app/api/spotify-playing" alt="raj5036 Spotify Playing" width="350" />](https://open.spotify.com/user/31rjwzx3kt4fc7uw5cotgj5qmydm)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="raj Spotify Playing" width="350" />](https://open.spotify.com/user/31rjwzx3kt4fc7uw5cotgj5qmydm)
 
 ### Check Out My Portflio for a detailed overview about me
 [Portfolio](https://raj5036.github.io/portfolio/dist/)
