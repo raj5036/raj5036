@@ -20,5 +20,6 @@
 
 ### GitHub Stats:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=raj5036&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+<!--<[![trophy](https://github-profile-trophy.vercel.app/?username=raj5036&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)-->
+[![Raj's github stats](https://github-readme-stats.vercel.app/api?username=raj5036)](https://github.com/anuraghazra/github-readme-stats)
  
