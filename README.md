@@ -14,6 +14,10 @@
     I would be highly interested in getting exposure to domains providing intellectually challenging work in the field of computer science for providing as well as enriching my knowledge and skills at the same time.
 
     Please contact me at EMAIL to find out how I might contribute and add value to your next project.
+    
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-raj.vercel.app/api/spotify-playing" alt="raj5036 Spotify Playing" width="350" />](https://open.spotify.com/user/31rjwzx3kt4fc7uw5cotgj5qmydm)
 
 ### Check Out My Portflio for a detailed overview about me
 [Portfolio](https://raj5036.github.io/portfolio/dist/)
@@ -23,5 +27,4 @@
 <!--<[![trophy](https://github-profile-trophy.vercel.app/?username=raj5036&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)-->
 [![Raj's github stats](https://github-readme-stats.vercel.app/api?username=raj5036&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Laravel](https://github-readme-stats.vercel.app/api/pin/?username=raj5036&repo=ChatCord-Application)](https://github.com/anuraghazra/github-readme-stats)
  
