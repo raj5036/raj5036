@@ -1,6 +1,6 @@
 # Hi I am [Raj Karmakar](https://github.com/raj5036)
 
-- 🔭 I’m currently working on a Laravel project(Repo  -> codehacking).
+- 🔭 I’m currently working on a Next.JS project.
 - 👯 I’m open to collaborate on Github
 -  My moto: Eat 🍽  Sleep 🛌  Hack⚡  Repeat 🔁
 
