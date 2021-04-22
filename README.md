@@ -4,9 +4,7 @@
 - 👯 I’m open to collaborate on Github
 -  My moto: Eat 🍽  Sleep 🛌  Hack⚡  Repeat 🔁
 
-## BIO
 
-   Currently pursuing my B.Tech degree(4th year) in Computer Science.As a coder I have an avid interest in Data Structures,Algorithms and Optimization.I love taking challenges and being able to engineer the solution.
    
 ### Check Out My Portflio for a detailed overview about me
 [Portfolio](https://raj5036.github.io/portfolio/dist/)
