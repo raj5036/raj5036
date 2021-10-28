@@ -1,6 +1,5 @@
 # Hi I am [Raj Karmakar](https://github.com/raj5036)
 
-- 🔭 I’m currently working on a Next.JS project.
 - 👯 I’m open to collaborate on Github
 -  My moto: Eat 🍽  Sleep 🛌  Hack⚡  Repeat 🔁
 
@@ -18,11 +17,6 @@
 
 
 ---
-    
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="raj Spotify Playing" width="350" />](https://open.spotify.com/user/31rjwzx3kt4fc7uw5cotgj5qmydm)
-
 
 ### GitHub Stats:
 
