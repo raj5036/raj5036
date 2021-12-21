@@ -1,8 +1,5 @@
 # Hi I am [Raj Karmakar](https://github.com/raj5036)
 
-- 👯 I’m open to collaborate on Github
--  My moto: Eat 🍽  Sleep 🛌  Hack⚡  Repeat 🔁
-
 
 ### Languages and Tools:
 
