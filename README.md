@@ -1,4 +1,4 @@
-Hi 👋 My name is Raj Karmakar
+Hi 👋 I am Raj
 =============================
 
 Software Engineer & Coding Enthusiast
