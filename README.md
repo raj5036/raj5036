@@ -9,7 +9,7 @@ Software Engineer & Coding Enthusiast
 * 🌍  I'm based in Bangalore, India
 * ✉️  You can contact me at [97rajmath@gmail.com](mailto:97rajmath@gmail.com)
 * 🧠  I'm learning System Design.
-* ⚡  I love reading on AI.
+* ⚡  I love reading on AI and Web3.
 
 ## ⚡ Technologies
 
